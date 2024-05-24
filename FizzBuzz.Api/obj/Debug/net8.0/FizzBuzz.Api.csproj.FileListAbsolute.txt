@@ -1,0 +1,7 @@
+C:\Users\Macejr\Code\FizzBuzz.Api\obj\Debug\net8.0\FizzBuzz.Api.csproj.AssemblyReference.cache
+C:\Users\Macejr\Code\FizzBuzz.Api\obj\Debug\net8.0\FizzBuzz.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Macejr\Code\FizzBuzz.Api\obj\Debug\net8.0\FizzBuzz.Api.AssemblyInfoInputs.cache
+C:\Users\Macejr\Code\FizzBuzz.Api\obj\Debug\net8.0\FizzBuzz.Api.AssemblyInfo.cs
+C:\Users\Macejr\Code\FizzBuzz.Api\obj\Debug\net8.0\FizzBuzz.Api.csproj.CoreCompileInputs.cache
+C:\Users\Macejr\Code\FizzBuzz.Api\obj\Debug\net8.0\FizzBuzz.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Macejr\Code\FizzBuzz.Api\obj\Debug\net8.0\FizzBuzz.Api.MvcApplicationPartsAssemblyInfo.cache
